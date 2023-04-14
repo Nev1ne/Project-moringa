@@ -40,7 +40,12 @@ body{
     padding: 0.7em;
 }
 .search-container input:focus{
-    
+   border-color: #fff;  
+}
+.search-container button{
+    background-color: #ffb92a;
+    border: none;
+    cursor: pointer;
 }
 
 
